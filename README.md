@@ -1,3 +1,3 @@
 # vrs
 
-https://www.watchparty.me/watch/well-off-control-license
+http://localhost:8096/web/index.html#!/home
